@@ -19,9 +19,9 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication_short: "Psychological Science"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract:  It is important for people to feel listened to in professional and personal communications, and yet they can feel unheard even when others have listened well. We propose that this feeling may arise because speakers conflate agreement with listening quality. In 11 studies (N = 3,396 adults), we held constant or manipulated a listener’s objective listening behaviors, manipulating only after the conversation whether the listener agreed with the speaker. Across various topics, mediums (e.g., video, chat), and cues of objective listening quality, speakers consistently perceived disagreeing listeners as worse listeners. This effect persisted after controlling for other positive impressions of the listener (e.g., likability). This effect seemed to emerge because speakers believe their views are correct, leading them to infer that a disagreeing listener must not have been listening very well. Indeed, it may be prohibitively difficult for someone to simultaneously convey that they disagree and that they were listening.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://journals.sagepub.com/doi/pdf/10.1177/09567976241239935
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
 url_poster: ''
