@@ -14,10 +14,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Disagreement Gets Mistaken for Bad Listening"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+ It is important for people to feel listened to in professional and personal communications, and yet they can feel unheard even when others have listened well. We propose that this feeling may arise because speakers conflate agreement with listening quality. In 11 studies (N = 3,396 adults), we held constant or manipulated a listener’s objective listening behaviors, manipulating only after the conversation whether the listener agreed with the speaker. Across various topics, mediums (e.g., video, chat), and cues of objective listening quality, speakers consistently perceived disagreeing listeners as worse listeners. This effect persisted after controlling for other positive impressions of the listener (e.g., likability). This effect seemed to emerge because speakers believe their views are correct, leading them to infer that a disagreeing listener must not have been listening very well. Indeed, it may be prohibitively difficult for someone to simultaneously convey that they disagree and that they were listening.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
