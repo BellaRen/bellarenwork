@@ -25,22 +25,19 @@ bio: I study conversational dynamics and negotiations. In my research, I seek to
 
 
 # Interests to show in About widget
-Research Interests:
+interests:
   - Conversational dynamics
   - Negotiations
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Ph.D. in Decision Processes 
+      institution: The Wharton School, University of Pennsylvania
+      year: 2025 (Expected)
+    - course: B.S. in Quantitative Sciences (summa cum laude)  
+      institution: Emory University
+      year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
